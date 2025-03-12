@@ -1,2 +1,1 @@
-# Boton_Ejecutar_Funcion_Jetpack_Compose_Kotlin
- Crear un botón con ejecución de una función con Jetpack Compose y Kotlin en Android Studio
+Cómo mostrar un botón con una acción al hacer clic (al tocar el botón), que ejecute una función previamente definida en nuestra app, con Jetpack Compose UI y Kotlin, usando el IDE Android Studio. Indicamos cómo generar el fichero APK para instalar en un dispositivo Android real. Más información en: https://proyectoa.com/crear-un-boton-con-ejecucion-de-una-funcion-con-jetpack-compose-y-kotlin-en-android-studio
